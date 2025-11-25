@@ -1,0 +1,9 @@
+{
+	"name": "f1datafactorypipeline",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6cee15fd-1d2d-4aaf-b00a-2956be08454b",
+		"tenantId": "0eb276c1-18ca-4c56-8b9d-58db891810ba"
+	}
+}
